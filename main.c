@@ -2,7 +2,8 @@
 #include <stdio.h>
 
 int main() {
-	puts("AMERICA!!");
+	puts("America application\n(c) 2024 United States of America. All rights reserved.\nMade in the USA.");
+	
 	return 0;
 }
 
