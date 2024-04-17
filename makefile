@@ -3,5 +3,5 @@ C = ${wildcard *.c}
 all = run
 
 run: $(C)
-	gcc $(C) -o main
-	./main
+	gcc $(C) -o america
+	./america
